@@ -1,4 +1,5 @@
 # hello-world
-i am weird-af
-dont you think that!!
-btw i am studying git rn.
+weird-af
+completed java & html.
+studying C++,python,dependency injection, spring framework,hibernate,CEH.
+I am a Self-Learner bitch!
